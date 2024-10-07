@@ -7,11 +7,7 @@ Welcome to the **Learning Spring Security** repository! This project is a step-b
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
